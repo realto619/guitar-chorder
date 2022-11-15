@@ -1,0 +1,10 @@
+links.innerHTML = '<h3>Playlist</h3>';
+links.innerHTML += '<ol class="song_list">';
+links.innerHTML += `<li><a href="?song=open_string_chords">Open String Chords</a></li>`;
+links.innerHTML += `<li><a href="?song=barre_chords">Barre Chords</a></li>`;
+links.innerHTML += `<li><a href="?song=double_barre_chords">Double Barre Chords</a></li>`;
+links.innerHTML += `<li><a href="?song=E9sus-E_Cmaj7-D5__A_Bsus2-Dsus2">In Desperate Need of Lyrics</a></li>`;
+links.innerHTML += `<li><a href="?song=hendrixy">Hendrixy</a></li>`;
+links.innerHTML += `<li><a href="?song=andy-summers-chords">Police Chords</a></li>`;
+links.innerHTML += `<li><a href="?song=jimi-hendrix-chords">Jimi Hendrix Chords</a></li>`;
+links.innerHTML += '</ol>';
